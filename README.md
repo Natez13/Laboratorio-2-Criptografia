@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center"> Laboratorio 02 Criptografía y Seguridad en Redes UDP</h3>
+  <h5 align="center"> Laboratorio 02 Criptografía y Seguridad en Redes UDP</h3>
 
   <p align="center">
     Lucas Almonacid
@@ -13,12 +13,6 @@
 * [Python3](https://www.python.org)
 * [Selenium](https://www.selenium.dev)
 * [Chrome Driver](https://chromedriver.chromium.org)
-
-
-### Pre-Requisitos
-
-Tener Docker y Docker Compose instalado
-* [Installation Guide](https://docs.docker.com/compose/install/)
 
 ## Hito2
 
