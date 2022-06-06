@@ -3,9 +3,9 @@
 
   <h1 align="center"> Laboratorio 02 Criptografía y Seguridad en Redes UDP</h1>
 
-  <p align="center">
+  <h3 align="center">
     Lucas Almonacid
-  </p>
+  </h3
 </div>
 
 # Los elemnetos usados para el desarollo del codigo:
