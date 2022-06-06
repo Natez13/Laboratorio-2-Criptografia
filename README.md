@@ -1,4 +1,3 @@
-# Laboratorio-2-Criptografia
 <br />
 <div align="center">
 
