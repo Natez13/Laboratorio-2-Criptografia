@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <h5 align="center"> Laboratorio 02 Criptografía y Seguridad en Redes UDP</h3>
+  <h1 align="center"> Laboratorio 02 Criptografía y Seguridad en Redes UDP</h1>
 
   <p align="center">
     Lucas Almonacid
