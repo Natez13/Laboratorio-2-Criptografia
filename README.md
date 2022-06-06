@@ -5,7 +5,7 @@
 
   <h3 align="center">
     Lucas Almonacid
-  </h3
+  </h3>
 </div>
 
 # Los elemnetos usados para el desarollo del codigo:
